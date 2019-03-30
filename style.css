@@ -1,3 +1,11 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  font-size: 13px;
+  font-family: Arial;
+}
+
 
 .logo {
   display: block;
@@ -5,4 +13,13 @@
   margin-right: auto;
   margin-top: 17%;
   width: auto;
+}
+
+.container {
+  width: 450px;
+  margin: 0 auto;
+}
+
+.container input{
+  width: 100%;
 }
