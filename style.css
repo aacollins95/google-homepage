@@ -4,8 +4,41 @@ ul {
   padding: 0;
   font-size: 13px;
   font-family: Arial;
+  height: 10px;
+  position: relative;
+  top: -335px
 }
 
+li {
+  float: left;
+  margin: 10px;
+  padding: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.right {
+  float: right;
+}
+
+.box {
+  background-image: url("https://ssl.gstatic.com/gb/images/v1_051523630.png");
+}
+
+.button {
+  display: block;
+  color: white;
+  border-radius: 5px;
+  font-weight: bold;
+  background-color: #4285f4;
+}
+
+.button a{
+  color: white;
+}
 
 .logo {
   display: block;
@@ -22,4 +55,16 @@ ul {
 
 .container input{
   width: 100%;
+}
+
+.crop {
+  width: 30px;
+  height: 30px;
+  margin: -10px;
+  overflow: hidden;
+}
+
+.crop img{
+
+  margin: -1800px 0 0 0px;
 }

@@ -5,3 +5,10 @@ Things I Learned
   -margin-left/right default to center
     -margins operate by percentage
   -width stretches an image about its center
+-The layer where you apply something is incredibly important
+-I should be committing more often
+-Box model!
+-cropped an image image size, once orientation was right removed overflow
+  -used thin border around actual
+-used positioning to move nav bar at the top
+-margin syntax: TRBL
