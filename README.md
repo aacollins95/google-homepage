@@ -12,3 +12,5 @@ Things I Learned
   -used thin border around actual
 -used positioning to move nav bar at the top
 -margin syntax: TRBL
+-Can wrap elements in a div, then use text-align: center to center them
+-
