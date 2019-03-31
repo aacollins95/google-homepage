@@ -13,4 +13,9 @@ Things I Learned
 -used positioning to move nav bar at the top
 -margin syntax: TRBL
 -Can wrap elements in a div, then use text-align: center to center them
--
+
+ For future versions
+ -make search bar look better, possibly contain real google Logo
+ -Clean up buttons
+ -make the page fit exactly to a single page
+ -squish down footer
